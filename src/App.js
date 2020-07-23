@@ -38,7 +38,7 @@ class App extends Component {
           title="My Bot"
           theme={myTheme}
           botName="ScheduleAppointment_dev"
-          welcomeMessage="Welcome, how can I help you today?"
+          welcomeMessage="Type Book an Appointment to start"
           onComplete={this.handleComplete.bind(this)}
           clearOnComplete={true}
           conversationModeOn={false}
