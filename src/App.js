@@ -35,7 +35,7 @@ class App extends Component {
           <h1 className="App-title">Welcome to ChatBot Demo</h1>
         </header>
         <ChatBot
-          title="My Bot"
+          title="Chat Bot"
           theme={myTheme}
           botName="ScheduleAppointment_dev"
           welcomeMessage="Type Book an Appointment to start"
